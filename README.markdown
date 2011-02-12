@@ -4,11 +4,11 @@ MMM is a storytelling application for Weavrs.com
 
 The narrative structure is based upon Joseph Campbell's "The Hero with a Thousand Faces" AKA The Monomyth.
 
-You can read about the concept of the [MonoMyth on Wikipedia] (http://en.wikipedia.org/wiki/Monomyth)
+You can read about the concept of the [MonoMyth on Wikipedia] (http://en.wikipedia.org/wiki/Monomyth/)
 
 MMM will use Weavr's memories via the Weavrs API and any other 3rd party web service with an API.
 
-There is a [Twitter account](http://twitter.com/mmm_git) to follow commits.
+There is a [Twitter account](http://twitter.com/mmm_git/) to follow commits.
 
 
 
