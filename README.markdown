@@ -1,4 +1,6 @@
-# MiniMonoMyth #
+# MiniMonoMyth
+By David Bausola
+
 
 MMM is a storytelling application for Weavrs.com
 
