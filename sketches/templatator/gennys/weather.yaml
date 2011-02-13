@@ -1,0 +1,11 @@
+choices:
+ clouds: ["spotted", "thick", "pendulous", "mackerel"]
+ sun: ["bright", "grey", "warm", "thin"]
+ wind: ["gusting", "cool", "breezy", "strong"]
+ temperature: ["cold", "cool", "mild", "warm", "hot"]
+
+schemas:
+ weather: ["{{ clouds }} clouds with {{ wind }} wind", 
+  "it's {{ temperature }}", 
+  "the sun is {{ sun }}, with {{ clouds }} clouds"
+]
