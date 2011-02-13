@@ -1,0 +1,36 @@
+# Stage 1 assets from generative arrays and APIs
+
+Intro: {
+    "After months of boredom,"; 
+    "After weeks of boredom,"; 
+    "After days of boredom,";
+}
+
+
+BookTitleInspiration: {
+    [SourceDomain: googlebooks];
+    [query: {{ UzrTopTag }}];
+    [BookPreview: {yes}];
+    [SelectBookfromResults: {last}]
+    [Store: {Title, Author, Category}]
+}
+
+
+LatestAudioFromTopEmotion: {
+    [API: {Weavrs}];
+    [query: {LatestAudio, TopEmotion}];
+}
+
+NearestCity: {
+    [API: GoogleMaps, Weavrs]    
+    [query: Nearest city to CurrentLocation]
+}
+
+Stage1Youtube:{
+    [API: Youtube]
+    [query: {{BookTitle, Embed: True}}]
+    [store: Embed Code, AuthorName]
+}
+    
+
+    

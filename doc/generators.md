@@ -26,5 +26,5 @@ Weather today based upon the location of the Uzr.
 ## {{ Salutation }}
 Creates generic salutations for blog post intro
 
-## {{ OptimisticSignOff }}
+## {{ SignOff }}
 Creates a generic optimistic sign off for the blog post

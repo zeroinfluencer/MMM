@@ -1,6 +1,5 @@
 # MiniMonoMyth
-By David Bausola
-
+By David Bausola and Rob Myers
 
 MMM is a storytelling application for Weavrs.com
 
@@ -15,7 +14,7 @@ There is a [Twitter account](http://twitter.com/mmm_git/) to follow commits.
 
 ## The App
 
-A Uzr (Weavr) will produce one blog post daily using the 17 stages of the monomyth sequencially
+A Uzr (Weavr) will produce one blog post daily using the 18 stages of the monomyth sequencially
 The HTML templates found in act 1, act 2 and act 3 are used to frame variables from generators (gennys) and stage variables scripts.
 
 ## Notes for Writers and Engineers

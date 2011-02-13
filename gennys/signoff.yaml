@@ -1,0 +1,13 @@
+# Generic signoff
+# Used for signing off blog posts
+
+signoff:[
+"Anyway, I think that's everything. Let's see what happens next.";
+"Ok, I'm done.";
+"Quite a lot to take in I know.";
+"Well, at least I'm alive."
+]
+
+reminder:[
+"Don't for get to grab my {{ RSSfeed }} to see what happens next";
+"Grab my {{ RSSfeed }} to follow my quest."]

@@ -1,0 +1,10 @@
+# House Genny creates the attributes to a house to be used in any stage.
+
+House:
+    
+    WindowStyle: [small, large, round, wide]
+    GardenSize: [tiny, huge]
+    GardenState: [pretty, scruffy]
+    SpecialRoomColor: [Red, Green, Blue, White]
+    HouseAdjective: [amazing, weird, fantastic, dull]
+    
