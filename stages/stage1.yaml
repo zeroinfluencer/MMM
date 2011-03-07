@@ -9,7 +9,7 @@ Intro: {
 
 BookTitleInspiration: {
     [SourceDomain: googlebooks];
-    [query: {{ UzrTopTag }}];
+    [query: "{{ UzrTopTag }}"];
     [BookPreview: {yes}];
     [SelectBookfromResults: {last}]
     [Store: {Title, Author, Category}]
@@ -27,7 +27,7 @@ NearestCity: {
 }
 
 Stage1Youtube:{
-    [API: Youtube]
+    [SourceDomain: Youtube]
     [query: {{BookTitle, Embed: True}}]
     [store: Embed Code, AuthorName]
 }

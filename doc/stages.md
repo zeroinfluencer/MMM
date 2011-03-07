@@ -6,7 +6,7 @@ Example:
 
 ## {{ VariableName }}
 Notes on how this is generated
-Which Stage it is designed for
+Notes on which Stage(s) it is designed for
 
 
 ## {{ }}

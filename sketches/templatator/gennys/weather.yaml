@@ -9,3 +9,7 @@ schemas:
   "it's {{ temperature }}", 
   "the sun is {{ sun }}, with {{ clouds }} clouds"
 ]
+
+
+
+
